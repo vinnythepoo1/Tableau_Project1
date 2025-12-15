@@ -4,7 +4,7 @@ The goal of this project is to analyze the Seattle Airbnb listing dataset and id
 
 ## Dataset Used
 - <a href=https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset>Airbnb Dataset </a>
-- <a href=https://github.com/vinnythepoo1/Tableau_Project1/blob/main/Airbnb%20project.twb>Airbnb Dataset </a>
+- <a href=https://github.com/vinnythepoo1/Tableau_Project1/blob/main/Airbnb%20project.twb>Airbnb Dashboard </a>
 
 ## Questions (KPIs)
 - How does the average price affect demand?
